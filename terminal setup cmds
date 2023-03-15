@@ -1,0 +1,4 @@
+node -v
+npm i -g expo-cli
+expo init DoneWithIt
+#select Blank
